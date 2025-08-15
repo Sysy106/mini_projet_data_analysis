@@ -10,5 +10,5 @@ Ce dépôt contient le mini-projet d'extraction et d'analyse des données GeoNam
 
 ## Reproduction
 1. Ouvrir et exécuter `mini_projet.ipynb` (connexion Internet requise pour le téléchargement initial).
-2. Les fichiers de sortie seront générés dans le répertoire courant.
+2. Les fichiers de sortie seront générés dans le répertoire "Résultats".
 ```

@@ -11931,7 +11931,7 @@
 13405839	Sig-Noguen	Sig-Noguen		11.17204	-0.40962	P	PPL	BF		04	49			0		170	Africa/Ouagadougou	2025-07-09
 13405840	Forêt Classée de Ouilengare	Foret Classee de Ouilengare		11.14752	-0.38859	L	RESF	BF		04	49			0		167	Africa/Ouagadougou	2025-07-09
 13442587	Bissiga	Bissiga		12.13393	-1.56333	P	PPL	BF		07	47			0		305	Africa/Ouagadougou	2025-07-18
-13442628	Nakomtenga	Nakomtenga		12.32185	-1.94941	P	PPL	BF		11	60			0		304	Africa/Ouagadougou	2025-07-18
+13442628	Nakomtenga	Nakomtenga		12.32185	-1.94941	P	PPL	BF		06	60			0		304	Africa/Ouagadougou	2025-08-14
 13442649	Koulou	Koulou		12.99308	-1.60424	P	PPL	BF		10	34			0		267	Africa/Ouagadougou	2025-07-18
 13442752	Ramessoum	Ramessoum		12.82271	-1.98196	P	PPL	BF		10	34			0		319	Africa/Ouagadougou	2025-07-18
 13442754	Sargla	Sargla		12.71735	-1.80819	P	PPL	BF		11	60			0		304	Africa/Ouagadougou	2025-07-18
